@@ -1,6 +1,5 @@
 <div align="center">
-    <h1 align="center"><b>Outlay Manager</b></h1>
-    <span align="center"><a href="https://clever-kitten-8484bf.netlify.app"><b>Live preview </b></a>|<a href="mailto:vjn8490@gmail.com"><b> Contact me</b></a>
+    <h1 align="center"><b>HTTP-only cookie sample.</b></h1>
     <br/>
 </div>
  

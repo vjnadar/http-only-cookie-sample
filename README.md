@@ -42,8 +42,5 @@ A simple, **MERN** sample that uses **HTTP-only cookie**.
 **Backend**:
 
 1. Copy this repository and enter the **backend** directory using the terminal.
-2. Make sure to create the mongo db schema by running the script file inside **/backend/mongoDBScripts**.
-   You can use the shell terminal.
-3. Create a new `.env` file by refering the .env_sample file, inside the root folder.
-4. Use **npm install** to install the necessary node modules.
-5. Use **npm start** to start up the backend server.
+2. Use **npm install** to install the necessary node modules.
+3. Use **npm start** to start up the backend server.
